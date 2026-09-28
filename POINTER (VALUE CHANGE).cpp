@@ -6,6 +6,6 @@ int main()
 	cout<<"the address of a is "<<p<<endl;
 	cout<<"the value of a is "<<*p<<endl;
 	*p=55;
-	cout<<"the new value address of a is "<<*p;
+	cout<<"the new value of a is "<<*p;
 	return 0;
 }
